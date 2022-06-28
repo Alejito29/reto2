@@ -2,11 +2,11 @@ List of parameters
 ------------------------------------------
 device_type:1
 device_id:4
-device_longitude:-74.06480312347412
-device_latitude:4.60059439177953
+device_longitude:-74.06192779541016
+device_latitude:4.599867180956515
 device_elevation:0.0
 device_radius:0.0
 device_hide:0
 device_draw_battery:true
 device_sensor_unit_radius:20.0
-device_script_file_name:nodesensor.csc
+device_script_file_name:sensor.csc

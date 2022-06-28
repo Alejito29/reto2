@@ -2,9 +2,9 @@ List of parameters
 ------------------------------------------
 device_type:2
 device_id:37
-device_longitude:-74.06540393829346
-device_latitude:4.600722721853357
+device_longitude:-74.05866622924805
+device_latitude:4.599482186853434
 device_elevation:0.0
 device_radius:10.0
 device_hide:0
-natural_event_file_name:Nature.evt
+natural_event_file_name:evento13.evt
